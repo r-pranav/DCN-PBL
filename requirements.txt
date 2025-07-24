@@ -1,0 +1,10 @@
+streamlit
+streamlit-folium
+osmnx
+folium
+geopy
+openrouteservice-py
+twilio
+pandas
+geopandas
+shapely
