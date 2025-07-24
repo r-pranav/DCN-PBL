@@ -3,7 +3,7 @@ streamlit-folium
 osmnx
 folium
 geopy
-openrouteservice-py
+openrouteservice
 twilio
 pandas
 geopandas
