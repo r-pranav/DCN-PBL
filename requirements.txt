@@ -1,11 +1,11 @@
 streamlit==1.36.0
 streamlit-folium==0.21.0
-pandas==1.5.3
-shapely==1.8.5
-pyproj==3.4.1
-geopandas==0.12.2
-Rtree==1.0.1
-osmnx==1.9.3
+pandas==1.4.4
+geopandas==0.11.1
+shapely==1.8.2
+Rtree==1.0.0
+pyproj==3.3.1
+osmnx==1.2.3
 folium==0.17.0
 geopy==2.4.1
 openrouteservice==2.4.0
